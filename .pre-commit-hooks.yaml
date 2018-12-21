@@ -1,0 +1,6 @@
+-   id: futurize
+    name: futurize
+    entry: futurize
+    language: python
+    files: \.py$
+    args: []
